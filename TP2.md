@@ -41,21 +41,19 @@ Vincent CHAVES - 3ICS
 
 # Programmation Bash
 
+### Vous enregistrerez vos scripts dans un dossier script que vous créerez dans votre répertoire personnel. Tous les scripts sont bien entendu à tester. Ajoutez le chemin vers script à votre PATH de manière permanente.
+- ![image](https://user-images.githubusercontent.com/113091304/190346467-a0b806ce-1f11-48b7-8e6c-f9bfbb573712.png)
+
 ## Exercice 2. Contrôle de mot de passe
 
 ### Écrivez un script testpwd.sh qui demande de saisir un mot de passe et vérifie s’il correspond ou non au contenu d’une variable PASSWORD dont le contenu est codé en dur dans le script. Le mot de passe saisi par l’utilisateur ne doit pas s’afficher.
+- ![image](https://user-images.githubusercontent.com/113091304/190345580-b6654f5d-ce1d-408b-a3d4-5ec661d0d4dc.png)
+- ![image](https://user-images.githubusercontent.com/113091304/190350928-c66be2b5-5951-4034-859c-85a85c0b87b8.png)
 
-<code> #!/bin/bash
+## Exercice 3. Expressions rationnelles
 
-PASSWORD="User@dmin!"
-read -s -p "Entrez le mot de passe : " entry_password
 
-if [ "$entry_password" = "$PASSWORD" ] ; then
-        echo "Mot de passe correct"
-else
-        echo "Mot de passe incorrect"
-fi
-</code>
+
 
 
 
