@@ -51,7 +51,11 @@ Vincent CHAVES - 3ICS
 - ![image](https://user-images.githubusercontent.com/113091304/190350928-c66be2b5-5951-4034-859c-85a85c0b87b8.png)
 
 ## Exercice 3. Expressions rationnelles
+- ![image](https://user-images.githubusercontent.com/113091304/190360232-4a0a849f-90fe-4571-b4e9-84b6163796ef.png)
+- ![image](https://user-images.githubusercontent.com/113091304/190360544-1bd28390-2283-4a6e-b03f-6163ee3b146b.png)
 
+## Exercice 4. Contrôle d’utilisateur
+-
 
 
 
