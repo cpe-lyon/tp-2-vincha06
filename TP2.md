@@ -17,9 +17,9 @@ Vincent CHAVES - 3ICS
 - La variable LANG détermine la langue que les logiciels utilisent pour communiquer avec l’utilisateur, PWD sert à connaître le chemin du dossier dans lequel on se trouve, OLDPWD sert à connaître le chemin du dossier dans lequel on se trouvait juste avant. SHELL contient l'interpréteur de commande.
 
 ### 4. Créez une variable locale MY_VAR (le contenu n’a pas d’importance). Vérifiez que la variable existe.
-<code> MY_VAR="" ; </code>
-<code> printenv MY_VAR </code>
-<code> echo $MY_VAR </code>
+- <code> MY_VAR="" ; </code>
+- <code> printenv MY_VAR </code>
+- <code> echo $MY_VAR </code>
 
 ### 5. Tapez ensuite la commande bash. Que fait-elle ? La variable MY_VAR existe-t-elle ? Expliquez. A la fin de cette question, tapez la commande exit pour revenir dans votre session initiale.
 - Oui mais ça ne fait rien car la variable est une variable locale qui n'est pas dans le bash.
