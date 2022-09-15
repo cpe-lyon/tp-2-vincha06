@@ -22,7 +22,7 @@ Vincent CHAVES - 3ICS
 <code> echo $MY_VAR </code>
 
 ### 5. Tapez ensuite la commande bash. Que fait-elle ? La variable MY_VAR existe-t-elle ? Expliquez. A la fin de cette question, tapez la commande exit pour revenir dans votre session initiale.
-- Oui mais ça ne fait rien car la variable n'est pas une variable d'environnement.
+- Oui mais ça ne fait rien car la variable est une variable locale qui n'est pas dans le bash.
 
 ### 6. Transformez MY_VAR en une variable d’environnement et recommencez la question précédente. Expliquez.
 - Ça marche puisque la variable est devenue une variable d'environnement.
@@ -55,6 +55,9 @@ Vincent CHAVES - 3ICS
 - ![image](https://user-images.githubusercontent.com/113091304/190360544-1bd28390-2283-4a6e-b03f-6163ee3b146b.png)
 
 ## Exercice 4. Contrôle d’utilisateur
+- ![image](https://user-images.githubusercontent.com/113091304/190373682-4c9b5565-42cc-4341-a8b8-35519674ec62.png)
+
+## Exercice 5. Factorielle
 - 
 
 
