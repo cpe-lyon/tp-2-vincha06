@@ -67,7 +67,7 @@ Vincent CHAVES - 3ICS
 > ![image](https://user-images.githubusercontent.com/113091304/191679081-f5994424-2f8b-41b3-81ff-7761109eea85.png)
 
 ## Exercice 7. Statistiques
-1.
+### 1. Écrivez un script qui prend en paramètres trois entiers (entre -100 et +100) et affiche le min, le max et la moyenne. Vous pouvez réutiliser la fonction de l’exercice 3 pour vous assurer que les paramètres sont bien des entiers
 ```console
 #!/bin/bash
  
@@ -128,7 +128,7 @@ echo "Le minimum est $min"
 echo "Le maximum est $max"
 echo "La moyenne est $moyenne"
 ```
-2.
+### 2. Généralisez le programme à un nombre quelconque de paramètres
 ```console
 #!/bin/bash
  
@@ -198,7 +198,7 @@ echo "Le minimum est $min"
 echo "Le maximum est $max"
 echo "La moyenne est $moyenne"
 ```
-3.
+### 3. Modifiez votre programme pour que les notes ne soient plus données en paramètres, mais saisies et stockées au fur et à mesure dans un tableau.
 ```console
 #!/bin/bash
  
