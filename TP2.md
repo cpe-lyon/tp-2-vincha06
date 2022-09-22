@@ -161,10 +161,6 @@ function min(){
         fi
 }
 
-
-
-
-
 function moyenne(){
         moyenne=$((( $1 + $2 + $3 ) / 3 ))
 }
@@ -260,9 +256,7 @@ function min(){
         echo "Le maximum est $min"
 }
 
-
 min
-
 
 function moyenne(){
         local index=0
