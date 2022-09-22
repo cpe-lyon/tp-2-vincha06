@@ -68,7 +68,7 @@ Vincent CHAVES - 3ICS
 
 ## Exercice 7. Statistiques
 1.
-'''console
+```console
 #!/bin/bash
  
 error=0
@@ -127,7 +127,7 @@ done
 echo "Le minimum est $min"
 echo "Le maximum est $max"
 echo "La moyenne est $moyenne"
-'''
+```
 
 
 
