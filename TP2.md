@@ -209,7 +209,7 @@ sum=0
 tab=()
 index=0
 
-read -p "Colmbien de note voulez vous saisir ? " nbr
+read -p "Nombre de notes à entrer ? " nbr
 
 function is_number()
 {
