@@ -59,7 +59,13 @@ Vincent CHAVES - 3ICS
 > ![image](https://user-images.githubusercontent.com/113091304/190373682-4c9b5565-42cc-4341-a8b8-35519674ec62.png)
 
 ## Exercice 5. Factorielle
-- 
+- ![image](https://user-images.githubusercontent.com/113091304/191675264-bc3ac3dc-38dc-42de-94ae-db89732352a9.png)
+> ![image](https://user-images.githubusercontent.com/113091304/191675479-1601889f-492b-4695-b5fa-57c9674ee3b8.png)
+
+## Exercice 6. Le juste prix
+- ![image](https://user-images.githubusercontent.com/113091304/191679535-d9668db4-10c6-4da7-9b1e-16c7fbced613.png)
+> ![image](https://user-images.githubusercontent.com/113091304/191679081-f5994424-2f8b-41b3-81ff-7761109eea85.png)
+
 
 
 
